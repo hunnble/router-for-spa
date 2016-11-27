@@ -1,0 +1,16 @@
+{
+  "name": "router-for-spa",
+  "version": "0.0.5",
+  "description": "A simple router",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "router",
+    "hash",
+    "url"
+  ],
+  "repository": "",
+  "readme": "README.md",
+  "author": "noski",
+  "license": "MIT"
+}
