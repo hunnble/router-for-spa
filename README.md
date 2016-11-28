@@ -1,5 +1,9 @@
-### router-for-spa
-    A simple front end router.
+## router-for-spa
+![npm-image](http://img.shields.io/npm/v/router-for-spa.svg)
+![downloads-image](http://img.shields.io/npm/dm/router-for-spa.svg)
+![travis-image](http://img.shields.io/travis/hunnble/router-for-spa.svg)
+>A simple front end router.
+
 #### Platform Support
 This library can be used in the **browser** only.
 #### Get the code
