@@ -2,7 +2,7 @@
 ![npm-image](http://img.shields.io/npm/v/router-for-spa.svg)
 ![downloads-image](http://img.shields.io/npm/dm/router-for-spa.svg)
 ![travis-image](http://img.shields.io/travis/hunnble/router-for-spa.svg)
->A simple front end router.
+>A simple front end router. [source code](https://github.com/hunnble/router-for-spa)
 
 #### Platform Support
 This library can be used in the **browser** only.
