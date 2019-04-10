@@ -1,6 +1,6 @@
 {
   "name": "router-for-spa",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple router",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,10 @@
     "hash",
     "url"
   ],
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hunnble/router-for-spa.git"
+  },
   "readme": "README.md",
   "author": "noski",
   "license": "MIT"
